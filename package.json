@@ -1,0 +1,34 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "A web scrapper application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodegrenade/web-scrapper.git"
+  },
+  "keywords": [
+    "webscrapper",
+    "nodejs",
+    "express",
+    "axios",
+    "cherio"
+  ],
+  "author": {
+    "name": "Temitope Ayotunde",
+    "email": "brhamix@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodegrenade/web-scrapper/issues"
+  },
+  "homepage": "https://github.com/kodegrenade/web-scrapper#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  }
+}
