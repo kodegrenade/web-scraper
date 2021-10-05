@@ -1,17 +1,17 @@
-# Web Scrapper
-A web scrapper application.
+# Web Scraper
+A web scraper application.
 
 ## Run Locally
 Clone the project
 
 ```bash
-  git clone https://github.com/kodegrenade/web-scrapper
+  git clone https://github.com/kodegrenade/web-scraper
 ```
 
 Go to the project directory
 
 ```bash
-  cd web-scrapper
+  cd web-scraper
 ```
 
 Install dependencies

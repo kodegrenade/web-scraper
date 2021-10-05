@@ -1,17 +1,17 @@
 {
-  "name": "web-scrapper",
+  "name": "web-scraper",
   "version": "1.0.0",
-  "description": "A web scrapper application",
+  "description": "A web scraper application",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kodegrenade/web-scrapper.git"
+    "url": "git+https://github.com/kodegrenade/web-scraper.git"
   },
   "keywords": [
-    "webscrapper",
+    "webscraper",
     "nodejs",
     "express",
     "axios",
@@ -23,9 +23,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kodegrenade/web-scrapper/issues"
+    "url": "https://github.com/kodegrenade/web-scraper/issues"
   },
-  "homepage": "https://github.com/kodegrenade/web-scrapper#readme",
+  "homepage": "https://github.com/kodegrenade/web-scraper#readme",
   "dependencies": {
     "axios": "^0.22.0",
     "cheerio": "^1.0.0-rc.10",
